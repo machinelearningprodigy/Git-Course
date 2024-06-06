@@ -2,3 +2,7 @@ Github does not validate anyone just with thier email or password
 It uses SSH key to validate a user
 
 git branch -M main #switches to main branch 
+
+git remote rename old_name to new new_name(most of the origin is used only)
+example : git remote rename origin superman
+
