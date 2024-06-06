@@ -6,3 +6,4 @@ git branch -M main #switches to main branch
 git remote rename old_name to new new_name(most of the origin is used only)
 example : git remote rename origin superman
 
+git remote -u : this helps to avoid typing whole git push origin main... by setting up a upstream. Now just type git push to get the work done
