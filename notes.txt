@@ -1,3 +1,4 @@
 Github does not validate anyone just with thier email or password
 It uses SSH key to validate a user
 
+git branch -M main #switches to main branch 
